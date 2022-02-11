@@ -1,5 +1,5 @@
 {
-  "name": "openchain",
+  "name": "sourcestacks",
   "private": true,
   "scripts": {
     "dev": "next dev",
